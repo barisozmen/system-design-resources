@@ -6,7 +6,11 @@ https://github.com/donnemartin/system-design-primer
 
 ### Examples
  - Videos:
-    - How to design... [Yelp](https://www.youtube.com/watch?v=tu6QKpV7GiI), [Twitter](https://www.youtube.com/watch?v=KmAyPUv9gOY&t=1214s), [Whatsapp](https://www.youtube.com/watch?v=5m0L0k8ZtEs), [Uber/Lyft](https://www.youtube.com/watch?v=J3DY3Te3A_A)
+    - How to design... 
+       - Yelp: ([video](https://www.youtube.com/watch?v=tu6QKpV7GiI))
+       - Twitter: ([video](https://www.youtube.com/watch?v=KmAyPUv9gOY&t=1214s)), ([video](https://www.youtube.com/watch?v=L7LtmfFYjc4))
+       - Whatsapp: ([video](https://www.youtube.com/watch?v=5m0L0k8ZtEs))
+       - Uber/Lyft: ([video](https://www.youtube.com/watch?v=J3DY3Te3A_A))
  - Blogs:
     - Top 10 System Desing Questions ([hackernoon](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444))
 
