@@ -19,6 +19,7 @@ https://github.com/donnemartin/system-design-primer
     - Top 10 System Desing Questions ([hackernoon](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444))
 
 ### Real-world examples (Tech Engineering pages)
+Resource with many real-world system design explanations: http://highscalability.com/
  - Yelp: https://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html
  - Netflix: https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905
  - AirBnb: https://medium.com/@airbnbeng
@@ -32,8 +33,7 @@ https://github.com/donnemartin/system-design-primer
      - [video: Twitter timelines at scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
  - Uber: [engineering website](https://eng.uber.com/category/articles/architecture/)
  - Dropbox: [Video: How we've scaled dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
- - Resource with many real-world system design explanations: http://highscalability.com/
-
+ 
 ### Step-by-step
  1. Requirements classification
  2. System interface definition
