@@ -37,6 +37,9 @@ https://github.com/donnemartin/system-design-primer
 ### Very good course 
 [Grokking the system design interview](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5082902844932096&utm_source=google&utm_medium=cpc&utm_campaign=platform2&utm_content=ad-1-dynamic&gclid=Cj0KCQiAzePjBRCRARIsAGkrSm6AItgy2HpLcFJO3hWDsWTQkbHufIYjtiHfoWi92AmvZRJSFMe9Ly0aAn8tEALw_wcB)
 
+### Great book
+[Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
+
 ### Some terms
  - CAP Theorem ([video](https://www.youtube.com/watch?v=Jw1iFr4v58M), [blog](https://towardsdatascience.com/cap-theorem-and-distributed-database-management-systems-5c2be977950e))
     - Consistency, Availability, Partition tolerance
