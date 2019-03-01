@@ -9,11 +9,11 @@ source: https://www.infoq.com/presentations/Twitter-Timeline-Scalability
 ### Everything-in-it page
 https://github.com/donnemartin/system-design-primer
 
-### Examples
+### Interview solutions
  - Videos:
     - How to design... 
        - Yelp: ([video](https://www.youtube.com/watch?v=tu6QKpV7GiI))
-       - Twitter: ([video](https://www.youtube.com/watch?v=KmAyPUv9gOY&t=1214s)), ([video](https://www.youtube.com/watch?v=L7LtmfFYjc4))
+       - Twitter: ([video](https://www.youtube.com/watch?v=KmAyPUv9gOY&t=1214s)) ([video](https://www.youtube.com/watch?v=L7LtmfFYjc4))
        - Whatsapp: ([video](https://www.youtube.com/watch?v=5m0L0k8ZtEs))
        - Uber/Lyft: ([video](https://www.youtube.com/watch?v=J3DY3Te3A_A))
  - Blogs:
