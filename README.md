@@ -1,6 +1,7 @@
 # System Design Resources
 
 System design of Twitter
+
 <img src="https://user-images.githubusercontent.com/14996155/53670394-71176980-3c2f-11e9-8adc-1700bda93a5b.png" width="600">
 source: https://www.infoq.com/presentations/Twitter-Timeline-Scalability
 
