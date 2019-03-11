@@ -87,3 +87,7 @@ https://www.codecademy.com/articles/http-requests
 ### What is REST 
 https://www.codecademy.com/articles/what-is-rest
  - REST: REpresentational State Transfer
+ 
+### Data engineering pipeline 
+with choices of technologies for each stage
+<img width="992" alt="dataengpipeline" src="https://user-images.githubusercontent.com/14996155/54097102-db38b880-436b-11e9-8e00-24797e6a182f.png">
