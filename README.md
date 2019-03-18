@@ -18,6 +18,7 @@ https://github.com/donnemartin/system-design-primer
       - Youtube: ([blog](https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/))
  - General:
     - Top 10 System Desing Questions ([hackernoon](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444))
+    - A good [GitHub page](https://github.com/gorkemgenc/Large-Scale-Systems-Design-Explanation)
 
 ### Real-world examples (Tech Engineering pages)
 Resource with many real-world system design explanations: http://highscalability.com/
