@@ -15,6 +15,7 @@ https://github.com/donnemartin/system-design-primer
       - Twitter: ([video](https://www.youtube.com/watch?v=KmAyPUv9gOY&t=1214s)) ([video](https://www.youtube.com/watch?v=L7LtmfFYjc4))
       - Whatsapp: ([video](https://www.youtube.com/watch?v=5m0L0k8ZtEs)) ([blog](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html))
       - Uber/Lyft: ([video](https://www.youtube.com/watch?v=J3DY3Te3A_A))
+      - Youtube: ([blog](https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/))
  - General:
     - Top 10 System Desing Questions ([hackernoon](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444))
 
